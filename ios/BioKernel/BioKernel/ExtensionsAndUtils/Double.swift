@@ -2,7 +2,6 @@
 //  Clamp.swift
 //  BioKernel
 //
-//  Created by Sam King on 1/20/24.
 //
 
 import Foundation

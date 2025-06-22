@@ -2,7 +2,6 @@
 //  WatchAppDelegate.swift
 //  BioKernelWatch Watch App
 //
-//  Created by Sam King on 12/10/24.
 //
 
 /*

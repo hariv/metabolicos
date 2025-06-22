@@ -2,7 +2,6 @@
 //  InOrderTaskQueue.swift
 //  BioKernel
 //
-//  Created by Sam King on 11/19/23.
 //
 // This class helps create an order for async tasks. We use it as part of our bridge
 // between traditional concurrency and async/await code. Basically, we use it to

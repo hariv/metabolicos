@@ -2,7 +2,6 @@
 //  SafetyServiceTests.swift
 //  BioKernelTests
 //
-//  Created by Sam King on 1/21/24.
 //
 
 import XCTest

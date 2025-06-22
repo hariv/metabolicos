@@ -2,7 +2,6 @@
 //  AddedGlucoseDataFrame.swift
 //  BioKernel
 //
-//  Created by Sam King on 1/21/24.
 //
 
 import Foundation

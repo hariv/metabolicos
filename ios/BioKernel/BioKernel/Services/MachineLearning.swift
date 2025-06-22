@@ -2,7 +2,6 @@
 //  MachineLearning.swift
 //  BioKernel
 //
-//  Created by Sam King on 1/15/24.
 //
 
 import Foundation

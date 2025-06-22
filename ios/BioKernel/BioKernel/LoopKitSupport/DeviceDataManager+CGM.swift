@@ -2,7 +2,6 @@
 //  DeviceDataManager+CGM.swift
 //  BioKernel
 //
-//  Created by Sam King on 11/9/23.
 //
 // This class acts as a bridge between LoopKit and the BioKernel. It is a delegate
 // for CGM events from LoopKit and uses these events to update state and act

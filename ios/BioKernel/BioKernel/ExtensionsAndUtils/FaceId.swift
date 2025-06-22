@@ -2,7 +2,6 @@
 //  FaceID.swift
 //  BioKernel
 //
-//  Created by Sam King on 11/27/23.
 //
 
 import LocalAuthentication

@@ -2,7 +2,6 @@
 //  DateExtensions.swift
 //  BioKernel
 //
-//  Created by Sam King on 11/3/23.
 //
 
 import Foundation

@@ -2,7 +2,6 @@
 //  GlucoseChartView.swift
 //  LoopViewer
 //
-//  Created by Sam King on 3/4/23.
 //  Copyright © 2023 Sam King. All rights reserved.
 //
 import Charts

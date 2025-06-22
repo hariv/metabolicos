@@ -2,7 +2,6 @@
 //  ClosedLoopService.swift
 //  BioKernel
 //
-//  Created by Sam King on 11/9/23.
 //
 // We try to copy the logic from Loop, which means:
 //    - if we get a pump heartbeat, get the latest CGM readings and run at most every 4.2 minutes

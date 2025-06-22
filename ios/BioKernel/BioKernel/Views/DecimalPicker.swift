@@ -2,7 +2,6 @@
 //  DecimalPicker.swift
 //  PickerTest
 //
-//  Created by Sam King on 1/13/24.
 //
 
 import SwiftUI

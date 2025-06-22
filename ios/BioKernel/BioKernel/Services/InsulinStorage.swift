@@ -2,7 +2,6 @@
 //  InsulinStorage.swift
 //  BioKernel
 //
-//  Created by Sam King on 11/7/23.
 //
 //  The purpose of this service is to maintain the current state of the insulin pump
 //  to calculate IoB. As an input, it takes a stream of `NewPumpEvent` events and

@@ -2,7 +2,6 @@
 //  HealthKitStorage.swift
 //  BioKernel
 //
-//  Created by Sam King on 11/12/23.
 //
 
 // We only store glucose and insulin in HealthKit. Both might have duplicates, but we include

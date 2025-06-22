@@ -2,7 +2,6 @@
 //  AlarmStorage.swift
 //  BioKernel
 //
-//  Created by Sam King on 11/12/23.
 //
 //  Note: I haven't figured out how to test this well yet, so who knows if it's correct
 

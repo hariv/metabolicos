@@ -2,7 +2,6 @@
 //  WorkoutStatusView.swift
 //  BioKernel
 //
-//  Created by Sam King on 12/28/24.
 //
 import SwiftUI
 

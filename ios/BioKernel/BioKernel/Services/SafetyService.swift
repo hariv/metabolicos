@@ -2,7 +2,6 @@
 //  SafetyService.swift
 //  BioKernel
 //
-//  Created by Sam King on 1/18/24.
 //
 
 import Foundation

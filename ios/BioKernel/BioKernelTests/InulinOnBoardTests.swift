@@ -2,7 +2,6 @@
 //  BioKernelTests.swift
 //  BioKernelTests
 //
-//  Created by Sam King on 11/9/23.
 //
 
 import XCTest

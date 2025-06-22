@@ -2,7 +2,6 @@
 //  Dependency.swift
 //  Type Zero
 //
-//  Created by Sam King on 1/24/23.
 //  Copyright © 2023 Sam King. All rights reserved.
 //
 //  Inspired by this: https://www.youtube.com/watch?v=dA9rGQRwHGs

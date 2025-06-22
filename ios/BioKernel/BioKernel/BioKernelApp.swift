@@ -2,7 +2,6 @@
 //  BioKernelApp.swift
 //  BioKernel
 //
-//  Created by Sam King on 11/2/23.
 //
 
 import SwiftUI

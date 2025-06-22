@@ -2,7 +2,6 @@
 //  DateTime.swift
 //  BioKernel
 //
-//  Created by Sam King on 11/11/23.
 //
 
 import Foundation

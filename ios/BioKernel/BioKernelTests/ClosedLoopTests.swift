@@ -2,7 +2,6 @@
 //  ClosedLoopTests.swift
 //  BioKernelTests
 //
-//  Created by Sam King on 12/16/23.
 //
 
 import XCTest

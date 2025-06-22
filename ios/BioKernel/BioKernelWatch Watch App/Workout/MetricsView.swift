@@ -2,7 +2,6 @@
 //  MetricsView.swift
 //  LoopViewerWatch Watch App
 //
-//  Created by Sam King on 3/5/23.
 //  Copyright © 2023 Sam King. All rights reserved.
 //
 

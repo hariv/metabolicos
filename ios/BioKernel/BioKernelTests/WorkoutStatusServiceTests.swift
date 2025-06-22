@@ -2,7 +2,6 @@
 //  WorkoutStatusServiceTests.swift
 //  BioKernelTests
 //
-//  Created by Sam King on 12/29/24.
 //
 
 import XCTest

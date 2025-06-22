@@ -2,7 +2,6 @@
 //  GlucoseAlertsView.swift
 //  BioKernel
 //
-//  Created by Sam King on 7/16/24.
 //
 
 import SwiftUI

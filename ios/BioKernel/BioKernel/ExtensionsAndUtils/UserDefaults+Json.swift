@@ -2,7 +2,6 @@
 //  UserDefaults+Json.swift
 //  BioKernel
 //
-//  Created by Sam King on 12/13/23.
 //
 
 import Foundation

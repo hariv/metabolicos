@@ -2,7 +2,6 @@
 //  MetricsGridView.swift
 //  BioKernelWatch Watch App
 //
-//  Created by Sam King on 12/18/24.
 //
 
 import SwiftUI

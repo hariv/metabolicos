@@ -2,7 +2,6 @@
 //  InsulinPersistantStorageTests.swift
 //  BioKernelTests
 //
-//  Created by Sam King on 11/21/23.
 //
 
 import XCTest

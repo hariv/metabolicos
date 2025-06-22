@@ -2,7 +2,6 @@
 //  Debug.swift
 //  Loop
 //
-//  Created by Michael Pangburn on 3/5/19.
 //  Copyright © 2019 LoopKit Authors. All rights reserved.
 //
 import Foundation

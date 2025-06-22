@@ -2,7 +2,6 @@
 //  SettingsDataTypes.swift
 //  BioKernel
 //
-//  Created by Sam King on 12/30/24.
 //
 
 import Foundation

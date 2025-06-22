@@ -2,7 +2,6 @@
 //  Bindings.swift
 //  Type Zero
 //
-//  Created by Sam King on 1/24/23.
 //  Copyright © 2023 Sam King. All rights reserved.
 //
 

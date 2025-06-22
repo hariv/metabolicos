@@ -2,7 +2,6 @@
 //  PersistedProperty.swift
 //  Loop
 //
-//  Created by Pete Schwamb on 5/29/22.
 //  Copyright © 2022 LoopKit Authors. All rights reserved.
 //
 

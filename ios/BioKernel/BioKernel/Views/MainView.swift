@@ -2,7 +2,6 @@
 //  MainView.swift
 //  BioKernel
 //
-//  Created by Sam King on 12/18/23.
 //
 
 import SwiftUI

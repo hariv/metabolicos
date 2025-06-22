@@ -2,7 +2,6 @@
 //  MainViewSummaryView.swift
 //  Type Zero
 //
-//  Created by Sam King on 4/4/23.
 //
 
 import SwiftUI

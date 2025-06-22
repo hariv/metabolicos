@@ -2,7 +2,6 @@
 //  Http.swift
 //  BioKernel
 //
-//  Created by Sam King on 11/22/23.
 //
 
 import Foundation

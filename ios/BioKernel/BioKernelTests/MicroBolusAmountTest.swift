@@ -2,7 +2,6 @@
 //  MicroBolusAmountTest.swift
 //  BioKernelTests
 //
-//  Created by Sam King on 12/31/24.
 //
 
 import XCTest

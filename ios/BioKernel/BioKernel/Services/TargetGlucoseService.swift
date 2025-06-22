@@ -2,7 +2,6 @@
 //  TargetGlucoseService.swift
 //  BioKernel
 //
-//  Created by Sam King on 12/29/24.
 //
 
 // Note: for now this service is really simple -- it just deals with exercise

@@ -2,7 +2,6 @@
 //  GlucoseAlertManager.swift
 //  BioKernelWatch Watch App
 //
-//  Created by Sam King on 1/2/25.
 //
 
 import Foundation

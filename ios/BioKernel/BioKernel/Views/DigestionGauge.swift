@@ -2,7 +2,6 @@
 //  DigestionGauge.swift
 //  BioKernel
 //
-//  Created by Sam King on 4/23/24.
 //
 
 import SwiftUI

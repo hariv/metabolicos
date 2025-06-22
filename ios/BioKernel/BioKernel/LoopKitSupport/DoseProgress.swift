@@ -2,7 +2,6 @@
 //  DoseProgress.swift
 //  BioKernel
 //
-//  Created by Sam King on 11/6/23.
 //
 
 import Foundation

@@ -2,7 +2,6 @@
 //  NotificationManager.swift
 //  BioKernel
 //
-//  Created by Sam King on 7/17/24.
 //
 
 import UserNotifications

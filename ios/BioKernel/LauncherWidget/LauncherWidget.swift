@@ -2,7 +2,6 @@
 //  LauncherWidget.swift
 //  LauncherWidget
 //
-//  Created by Sam King on 12/10/24.
 //
 
 import WidgetKit

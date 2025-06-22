@@ -2,7 +2,6 @@
 //  AppColors.swift
 //  Type Zero
 //
-//  Created by Sam King on 3/31/23.
 //
 
 import SwiftUI

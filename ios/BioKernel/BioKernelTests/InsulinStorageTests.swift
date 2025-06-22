@@ -2,7 +2,6 @@
 //  InsulinStorageTests.swift
 //  BioKernelTests
 //
-//  Created by Sam King on 11/20/23.
 //
 //  Overall we want to test:
 //    - A standard set of Pump Events

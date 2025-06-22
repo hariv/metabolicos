@@ -2,7 +2,6 @@
 //  BackgroundService.swift
 //  BioKernel
 //
-//  Created by Sam King on 7/9/24.
 //
 
 import BackgroundTasks

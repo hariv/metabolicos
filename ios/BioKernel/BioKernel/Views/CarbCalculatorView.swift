@@ -2,7 +2,6 @@
 //  CarbCalculatorView.swift
 //  BioKernel
 //
-//  Created by Sam King on 2/21/24.
 //
 
 import SwiftUI

@@ -2,7 +2,6 @@
 //  SaveDataView.swift
 //  BioKernel
 //
-//  Created by Sam King on 9/4/24.
 //
 
 import SwiftUI
